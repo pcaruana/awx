@@ -65,7 +65,7 @@ django-solo==1.1.2
 django-split-settings==0.2.5
 django-taggit==0.22.1
 django-transaction-hooks==0.2
-django==1.8.16            # via channels, django-auth-ldap, django-crum, django-split-settings, django-transaction-hooks
+django==3.2.19            # via channels, django-auth-ldap, django-crum, django-split-settings, django-transaction-hooks
 djangorestframework-yaml==1.0.3
 djangorestframework==3.3.3
 #docutils==0.12            # via botocore
