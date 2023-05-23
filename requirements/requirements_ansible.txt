@@ -104,7 +104,7 @@ pyyaml==3.12              # via cliff, os-client-config, oslo.config, psphere, p
 requests-kerberos==0.11.0  # via pywinrm
 requests-ntlm==1.0.0      # via pywinrm
 requests-oauthlib==0.8.0  # via msrest
-requests==2.14.2          # via adal, apache-libcloud, azure-servicebus, azure-servicemanagement-legacy, azure-storage, keystoneauth1, msrest, python-designateclient, python-glanceclient, python-ironicclient, python-keystoneclient, python-neutronclient, pyvmomi, pywinrm, requests-kerberos, requests-ntlm, requests-oauthlib
+requests==2.31.0          # via adal, apache-libcloud, azure-servicebus, azure-servicemanagement-legacy, azure-storage, keystoneauth1, msrest, python-designateclient, python-glanceclient, python-ironicclient, python-keystoneclient, python-neutronclient, pyvmomi, pywinrm, requests-kerberos, requests-ntlm, requests-oauthlib
 requestsexceptions==1.2.0  # via os-client-config, shade
 rfc3986==1.0.0            # via oslo.config
 s3transfer==0.1.10        # via boto3
