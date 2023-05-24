@@ -159,7 +159,7 @@ pyyaml==3.12              # via cliff, djangorestframework-yaml, os-client-confi
 redbaron==0.6.3
 requests-futures==0.9.7
 requests-oauthlib==0.8.0  # via msrest, python-social-auth
-requests==2.14.2          # via adal, apache-libcloud, azure-servicebus, azure-servicemanagement-legacy, azure-storage, keystoneauth1, msrest, python-designateclient, python-glanceclient, python-ironicclient, python-keystoneclient, python-neutronclient, python-social-auth, pyvmomi, requests-futures, requests-oauthlib, slackclient, twilio
+requests==2.31.0          # via adal, apache-libcloud, azure-servicebus, azure-servicemanagement-legacy, azure-storage, keystoneauth1, msrest, python-designateclient, python-glanceclient, python-ironicclient, python-keystoneclient, python-neutronclient, python-social-auth, pyvmomi, requests-futures, requests-oauthlib, slackclient, twilio
 requestsexceptions==1.2.0  # via os-client-config, shade
 rfc3986==1.0.0            # via oslo.config
 rply==0.7.4               # via baron
