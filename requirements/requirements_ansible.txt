@@ -37,7 +37,7 @@ certifi==2017.4.17        # via msrest
 cffi==1.10.0              # via cryptography
 cliff==2.7.0              # via osc-lib, python-designateclient, python-neutronclient, python-openstackclient
 cmd2==0.7.2               # via cliff
-cryptography==1.9         # via adal, azure-storage, pyopenssl, secretstorage
+cryptography==41.0.2         # via adal, azure-storage, pyopenssl, secretstorage
 debtcollector==1.15.0     # via oslo.config, oslo.utils, python-designateclient, python-keystoneclient, python-neutronclient
 decorator==4.0.11         # via shade
 deprecation==1.0.1        # via openstacksdk
