@@ -32,7 +32,7 @@ babel==2.3.4              # via osc-lib, oslo.i18n, python-cinderclient, python-
 backports.ssl-match-hostname==3.5.0.1
 boto3==1.4.4
 boto==2.46.1
-botocore==1.5.72          # via boto3, s3transfer
+botocore==1.9.12          # via boto3, s3transfer
 certifi==2017.4.17        # via msrest
 cffi==1.10.0              # via cryptography
 cliff==2.7.0              # via osc-lib, python-designateclient, python-neutronclient, python-openstackclient
