@@ -13,3 +13,4 @@ pytest-mock
 logutils
 flower
 uwsgitop
+sqlparse>=0.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
