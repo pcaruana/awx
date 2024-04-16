@@ -110,7 +110,7 @@
     "jquery-ui": "~1.10.5",
     "js-yaml": "^3.2.7",
     "legacy-loader": "0.0.2",
-    "lodash": "~3.8.0",
+    "lodash": "~4.17.17",
     "lr-infinite-scroll": "github:lorenzofox3/lrInfiniteScroll",
     "moment": "~2.10.0",
     "ng-toast": "github:ansible/ngToast#2.0.1",
