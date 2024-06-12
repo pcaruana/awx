@@ -175,7 +175,7 @@ suds==0.4                 # via psphere
 tacacs_plus==1.0
 tempora==1.7              # via irc, jaraco.logging
 twilio==6.1.0
-twisted==16.6.0
+twisted==22.10.0rc1
 txaio==2.8.0              # via autobahn
 typing==3.6.1             # via m2crypto
 unicodecsv==0.14.1        # via cliff
@@ -188,4 +188,4 @@ zope.interface==4.4.2     # via twisted
 
 # The following packages are considered to be unsafe in a requirements file:
 pip==9.0.1
-setuptools==36.0.1
+setuptools==65.5.1
