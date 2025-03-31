@@ -99,7 +99,7 @@
     "angular-sanitize": "~1.4.14",
     "angular-scheduler": "github:ansible/angular-scheduler#0.1.1",
     "angular-tz-extensions": "github:ansible/angular-tz-extensions#0.3.13",
-    "angular-ui-router": "1.0.0-beta.3",
+    "angular-ui-router": "1.0.30",
     "bootstrap": "^3.1.1",
     "bootstrap-datepicker": "^1.4.0",
     "codemirror": "^5.17.0",
