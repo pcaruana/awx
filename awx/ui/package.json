@@ -94,7 +94,7 @@
     "angular-duration-format": "^1.0.1",
     "angular-gettext": "^2.3.5",
     "angular-md5": "^0.1.8",
-    "angular-moment": "^0.10.1",
+    "angular-moment": "^1.0.0",
     "angular-resource": "~1.4.14",
     "angular-sanitize": "~1.4.14",
     "angular-scheduler": "github:ansible/angular-scheduler#0.1.1",
