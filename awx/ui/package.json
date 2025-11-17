@@ -108,7 +108,7 @@
     "javascript-detect-element-resize": "^0.5.3",
     "jquery": "~2.2.4",
     "jquery-ui": "~1.10.5",
-    "js-yaml": "^3.2.7",
+    "js-yaml": "^4.1.1",
     "legacy-loader": "0.0.2",
     "lodash": "~3.8.0",
     "lr-infinite-scroll": "github:lorenzofox3/lrInfiniteScroll",
